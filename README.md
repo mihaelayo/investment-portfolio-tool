@@ -1,3 +1,8 @@
+This is project was build during the 2022 edition of the Herhackaton, organized by the Hackaton Company. The challenge was given by Allinz Global Invesors. The prompt was to find the easiest way for customers to share their portfolio data from different sources in order to have a full overview of their investment portfolio that might be scattered across multiple platforms and accounts. The sollution builds on Allianz's current setup of personal advisors giving the customer detailed feedback and investment advice after analyzing their portfolio. 
+
+The prototype is an addon to the current flow that Allianz uses and its main goal is to automate the manual input of investment data from different accounts in order to give a better, more secure user experience where the advisory stage is not delayed by manual operations. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
