@@ -1,4 +1,4 @@
-This is project was build during the 2022 edition of the Herhackaton, organized by the Hackaton Company. The challenge was given by Allinz Global Invesors. The prompt was to find the easiest way for customers to share their portfolio data from different sources in order to have a full overview of their investment portfolio that might be scattered across multiple platforms and accounts. 
+This is project was build during the 2022 edition of the Herhackaton, organized by the Hackaton Company. The challenge was given by Allianz Global Investors. The prompt was to find the easiest way for customers to share their investment portfolio data from different sources in order to have a full overview of their investments that might be scattered across multiple platforms and accounts. 
 
 The sollution builds on Allianz's current setup of personal advisors giving the customer detailed feedback and investment advice after analyzing their portfolio. 
 
