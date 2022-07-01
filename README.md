@@ -4,7 +4,7 @@ The sollution builds on Allianz's current setup of personal advisors giving the 
 
 The prototype is an addon to the current flow that Allianz uses and its main goal is to automate the manual input of investment data from different accounts in order to give a better, more secure user experience where the advisory stage is not delayed by manual operations. 
 
-The prototype was build in 1 day.
+The prototype was build in 1 day. The design is just a foundation to be build on to and te focus was on functionality.
 
 
 # Getting Started with Create React App
