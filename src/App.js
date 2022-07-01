@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Header from './Header';
+import Header from './components/Header.js';
 import { BrowserRouter as Router, Route, Routes  } from 'react-router-dom';
 import Info from './Pages/Info';
 import ChooseInput from './Pages/ChooseInput';
@@ -14,7 +14,7 @@ function App() {
         <div className='content'>
           <Routes>
             <Route path='/' element={<Info/>}></Route>
-            <Route path='/data' element={<ChooseInput/>}></Route>
+            <Route path='/data' element={<ChooseInput />}></Route>
             <Route path='/success' element={<ImportSuccess/>}></Route>
           </Routes>          
         </div>

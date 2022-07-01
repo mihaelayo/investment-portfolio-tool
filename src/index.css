@@ -64,6 +64,10 @@ button {
   margin-bottom: 50px;
 }
 
+.button-container {
+  height: 30vh;
+}
+
 .bank-icon {
   height: 14px;
   padding-right: 12px;

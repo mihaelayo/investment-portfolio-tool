@@ -1,12 +1,18 @@
 import React from 'react'
 
-function Dropdown() {
+
+function Dropdown(props) {
+
   return (
+
     <div className='dropdown'>
-      <select>
-        <option value=""></option>
+      <select onChange={(e)=> {
+        const selectedBank = e.target.value;
+        props.setBank(selectedBank)
+      }}>
+      <option value=""></option>
         <option value="Commerzbank">Commerzbank</option>
-        <option value="CITI">CITI</option>
+        <option value="citi">CITI</option>
         <option value="Santander">Santander</option>
       </select>
     </div>
